@@ -298,7 +298,25 @@ hr {
     color: rgb(240, 243, 246);
 }
 
-.markdown-body th tr td {
+.markdown-body th {
+    border: 1.333px solid rgb(122, 130, 142);
+    color: rgb(240, 243, 246);
+    padding-bottom: 6px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 6px;
+}
+
+.markdown-body tr {
+    border: 1.333px solid rgb(122, 130, 142);
+    color: rgb(240, 243, 246);
+    padding-bottom: 6px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 6px;
+}
+
+.markdown-body td {
     border: 1.333px solid rgb(122, 130, 142);
     color: rgb(240, 243, 246);
     padding-bottom: 6px;
