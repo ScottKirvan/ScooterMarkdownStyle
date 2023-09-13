@@ -140,6 +140,15 @@ _This is italic text_
 >
 > Multi-paragraph blockquote
 
+> Here we're mixing a bunch of markdown in a blockquote:
+>
+> ### The quarterly results look great
+>
+> - Sales were off the chart!
+> - Morale is strong!
+> - Poised to go public next spring!
+>
+> > _Everything_ is going according to **the plan**.
 
 ## Lists
 
