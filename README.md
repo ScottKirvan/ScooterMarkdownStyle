@@ -90,7 +90,13 @@ ___
 | February | $80     |
 | March    | $420    |
 
-
+Alignment:
+| Item              | In Stock |  Price |
+| :---------------- | :------: | -----: |
+| Python Hat        |   True   |  23.99 |
+| SQL Hat           |   True   |  23.99 |
+| Codecademy Tee    |  False   |   9.99 |
+| Codecademy Hoodie |   n/a    | 142.99 |
 
 
 
