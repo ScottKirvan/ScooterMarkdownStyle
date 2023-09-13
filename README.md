@@ -124,7 +124,13 @@ _This is italic text_
 
 > basic blockquote
 > following normal paragraph  
-> rules
+> doublespace rules
+
+> **Note** 
+> GitHub Note callout
+
+> **Warning** 
+> GitHub Warning callout
 
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
