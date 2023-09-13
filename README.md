@@ -230,6 +230,7 @@ var foo = function (bar) {
 
 console.log(foo(5));
 ```
+
 ## Links
 
 [link text](http://dev.nodeca.com)
