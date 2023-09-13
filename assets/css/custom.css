@@ -199,24 +199,28 @@ img {
 }
 
 blockquote {
-    /*
-    padding: 0 1em;
-    */
     color: rgb(240, 243, 246);
     border-left-color: rgb(122, 130, 142);
     border-left-style: solid;
     border-left-width: 4px;
     box-sizing: border-box;
-    /*
-    margin-top: 0;
-    margin-bottom: 16px;
     margin: 0;
     display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 40px;
-    margin-inline-end: 40px;
-    */
+
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+    margin-bottom: 0px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+    padding-bottom: 0px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 0px;
+
 }
 
 /*
