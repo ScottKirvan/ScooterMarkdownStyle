@@ -72,6 +72,17 @@ h1 Heading
 h2 Heading
 ----------
 
+## Paragraphs
+
+Paragraph text
+on three
+seperate lines
+
+Line break forced  
+with double spaces
+
+ Intented  
+paragraph
 
 ## Horizontal Rules
 
