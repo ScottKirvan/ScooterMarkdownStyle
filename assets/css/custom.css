@@ -206,15 +206,17 @@ blockquote {
     border-left-color: rgb(122, 130, 142);
     border-left-style: solid;
     border-left-width: 4px;
-    margin-top: 0;
-    margin-bottom: 16px;
+    /* margin-top: 0;
+    margin-bottom: 16px; */
     margin: 0;
     box-sizing: border-box;
     display: block;
+    /*
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 40px;
     margin-inline-end: 40px;
+    */
 }
 
 ul {}
