@@ -33,18 +33,23 @@ H2 Header
 
 # Github style Note/Warning callouts
 
+Raw:
 ```
 > **Note** 
 > GitHub Note callout
-```
 
-> **Note** 
-> GitHub Note callout
-
-```
 > **Warning** 
 > GitHub Warning callout
 ```
+
+On GitHub.com:
+
+On Deployed Page:
+
+For Preview Testing:
+
+> **Note** 
+> GitHub Note callout
 
 > **Warning** 
 > GitHub Warning callout
