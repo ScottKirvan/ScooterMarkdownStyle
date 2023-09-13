@@ -1,15 +1,31 @@
-TODO
-----
-- [ ] .
+---
 
-In Progress
------------
-- [ ] .
+kanban-plugin: basic
 
-Done ✓
-------
-- [X] .
+---
 
-Not Gonna Do ✓
-------
-- [X] .
+## TODO
+
+- [ ] Tables #css
+- [ ] Escape characters #readme
+
+
+## In Progress
+
+
+
+## Done ✓
+
+
+
+## Not Gonna Do ✓
+
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%

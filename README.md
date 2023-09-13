@@ -243,6 +243,20 @@ console.log(foo(5));
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 
+##  Vertical spacing
+
+test\
+test
+\
+\
+\
+\
+\
+hello
+
+
+
+
 ## Images
 
 Image with alt text:  
