@@ -19,11 +19,11 @@ H2 Header
 ```
 On GitHub.com:
 
-![](../Pasted%20image%2020230913102738.png)
+![](../assets/media/Pasted%20image%2020230913102738.png)
 
 On Deployed Page:
 
-![](../Pasted%20image%2020230913102806.png)
+![](../assets/media/Pasted%20image%2020230913102806.png)
 
 For Preview Testing:
 
@@ -71,11 +71,11 @@ Alignment (possible bug):
 
 On GitHub.com:
 
-![](../Pasted%20image%2020230913102242.png)
+![](../assets/media/Pasted%20image%2020230913102242.png)
 
 On Deployed Page:
 
-![](../Pasted%20image%2020230913102305.png)
+![](../assets/media/Pasted%20image%2020230913102305.png)
 
 For Preview Testing:
 
