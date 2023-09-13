@@ -259,10 +259,10 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
-Image with alt text:
+Image with alt text:  
 ![Minion](https://octodex.github.com/images/minion.png)
 
-Image with alt text and hover title:
+Image with alt text and hover title:  
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 Like links, Images also have a footnote style syntax
