@@ -298,7 +298,7 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 Credits
 -------
 **Copyright (c) (2023):** [Scott Kirvan](https://github.com/ScottKirvan)  - All rights reserved   
-Much of the text in this document was copied from [Markdown it!](https://markdown-it.github.io/)
+Much of the text in this README was copied from [Markdown it!](https://markdown-it.github.io/), **Copyright (c) 2014** Vitaly Puzrin, Alex Kocharin.  
 *ScooterMarkdownStyle is licensed under the [MIT License](LICENSE.md).*  
 
 Project Link:  [ScooterMarkdownStyle](https://github.com/ScottKirvan/ScooterMarkdownStyle)  
