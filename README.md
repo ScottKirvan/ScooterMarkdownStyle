@@ -65,6 +65,8 @@ You will like those projects!
 ##### h5 Heading
 ###### h6 Heading
 
+## Alternate Heading Syntax
+
 
 ## Horizontal Rules
 
