@@ -10,19 +10,25 @@ I'm finding some elements that don't deploy/publish properly.  I'll have to find
 report these.
 
 ## Alternate Headers
+Underlined H2 Headers don't format properly 
+
+Raw:
 ```
 H2 Header
 ---------
 ```
+On GitHub.com:
 
-produces:
+![](../Pasted%20image%2020230913102738.png)
+
+On Deployed Page:
+
+![](../Pasted%20image%2020230913102806.png)
+
+For Preview Testing:
 
 H2 Header
 ---------
-
-should be same as:
-
-## H2 Header
 
 ---
 
@@ -46,3 +52,41 @@ should be same as:
 
 These are parsed as plain paragraph text.
 They need a &lt;span&gt; or something so the css can style it.
+
+---
+
+# Tables
+Table formatting breaks when preceded by a paragraph without a break.
+
+Raw:
+```
+Alignment (possible bug):
+| Item              | In Stock |  Price |
+| :---------------- | :------: | -----: |
+| Python Hat        |   True   |  23.99 |
+| SQL Hat           |   True   |  23.99 |
+| Codecademy Tee    |  False   |   9.99 |
+| Codecademy Hoodie |   n/a    | 142.99 |
+```
+
+On GitHub.com:
+![](../Pasted%20image%2020230913102242.png)
+
+On Deployed Page:
+
+![](../Pasted%20image%2020230913102305.png)
+
+For Preview Testing:
+
+Alignment (possible bug):
+| Item              | In Stock |  Price |
+| :---------------- | :------: | -----: |
+| Python Hat        |   True   |  23.99 |
+| SQL Hat           |   True   |  23.99 |
+| Codecademy Tee    |  False   |   9.99 |
+| Codecademy Hoodie |   n/a    | 142.99 |
+
+---
+
+
+

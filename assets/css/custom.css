@@ -278,6 +278,18 @@ hr {
 
 }
 
+.markdown-body table {
+    display: block;
+    width: 100%;
+    width: max-content;
+    max-width: 100%;
+    overflow: auto;
+}
+
+.markdown-body table tr:nth-child(2n) {
+    background-color: var(--bgColor-muted, var(--color-canvas-subtle));
+}
+
 /*
 p {}
 
