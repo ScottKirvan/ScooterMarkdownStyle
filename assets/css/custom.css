@@ -204,7 +204,15 @@ blockquote {
     padding: 0 1em;
     color: var(--fgColor-muted, var(--color-fg-muted));
     border-left: 0.25em solid var(--borderColor-default, var(--color-border-default));
-
+    margin-top: 0;
+    margin-bottom: 16px;
+    margin: 0;
+    box-sizing: border-box;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
 }
 
 ul {}
