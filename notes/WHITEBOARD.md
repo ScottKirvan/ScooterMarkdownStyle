@@ -50,7 +50,7 @@ H2 Header
 > GitHub Warning callout
 
 These are parsed as plain paragraph text.
-They need a &lt;span&gt; or something so the css can style it.
+They need a `<span>` or something so the css can style it.
 
 
 # Tables
