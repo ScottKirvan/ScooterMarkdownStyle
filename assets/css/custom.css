@@ -38,10 +38,10 @@ body {
 }
 
 .footer {
-    margin-top 40px;
-    padding-bottom 8px;
-    padding-top 40px;
-    position relative;
+    margin-top: 40px;
+    padding-bottom: 8px;
+    padding-top: 40px;
+    position: relative;
 }
 
 h1 {
@@ -183,8 +183,6 @@ code {
 
 }
 
-p {}
-
 a {
     color: rgb(113, 183, 255);
     text-decoration: none;
@@ -221,6 +219,9 @@ blockquote {
     */
 }
 
+/*
+p {}
+
 ul {}
 
 ol {}
@@ -232,3 +233,4 @@ span {}
 div {}
 
 table {}
+*/
