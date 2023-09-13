@@ -265,8 +265,11 @@ hr {
     height: 0.25em;
     padding: 0;
     margin: 24px 0;
-    background-color: var(--borderColor-default, var(--color-border-default));
+    background-color: rgb(122, 130, 142);
     border: 0;
+    overflow: hidden;
+    background: transparent;
+    box-sizing: content-box;
 }
 
 /*
