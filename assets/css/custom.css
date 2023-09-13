@@ -23,10 +23,10 @@ body {
     word-wrap: break-word;
 }
 
-.MainBody {
+.Box-body {
     width: 80%;
     border: 1px solid white;
-    /* This centers the MainBody element horizontally */
+    /* This centers the Box-body element horizontally */
     margin: 0 auto;
     /* This aligns the text to the left within the centered div */
     text-align: left;
@@ -35,6 +35,10 @@ body {
     padding-left: 32px;
     padding-right: 32px;
     padding-top: 16px;
+    text-align: left;
+}
+
+.markdown-body {
     text-align: left;
 }
 
