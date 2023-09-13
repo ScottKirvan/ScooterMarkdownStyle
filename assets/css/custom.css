@@ -228,7 +228,7 @@ pre {
     overflow: auto;
     font-size: 85%;
     line-height: 1.45;
-    color: var(--fgColor-default, var(--color-fg-default));
+    color: rgb(240, 243, 246);
     background-color: rgb(39, 43, 51);
     border-radius: 6px;
     word-wrap: normal;
