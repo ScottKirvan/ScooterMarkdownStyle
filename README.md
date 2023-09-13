@@ -177,6 +177,11 @@ Start numbering with offset:
 57. foo
 1. bar
 
+checkboxen:
+- [ ] item 1
+  - [ ] item 2
+- [ ] item 3
+- [x] item checked
 
 ## Code
 
