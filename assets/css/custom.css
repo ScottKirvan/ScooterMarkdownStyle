@@ -284,6 +284,9 @@ hr {
     width: max-content;
     max-width: 100%;
     overflow: auto;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+    border-color: gray;
 }
 
 .markdown-body table tr:nth-child(2n) {

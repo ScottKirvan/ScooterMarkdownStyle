@@ -70,6 +70,7 @@ Alignment (possible bug):
 ```
 
 On GitHub.com:
+
 ![](../Pasted%20image%2020230913102242.png)
 
 On Deployed Page:
