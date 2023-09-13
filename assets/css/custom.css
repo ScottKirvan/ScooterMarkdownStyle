@@ -229,13 +229,17 @@ pre {
     font-size: 85%;
     line-height: 1.45;
     color: var(--fgColor-default, var(--color-fg-default));
-    background-color: var(--bgColor-muted, var(--color-canvas-subtle));
+    background-color: rgb(39, 43, 51);
     border-radius: 6px;
     word-wrap: normal;
     margin-top: 0;
     margin-bottom: 16px;
     font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
-
+    box-sizing: border-box;
+    display: block;
+    white-space-collapse: preserve;
+    text-wrap: nowrap;
+    margin: 1em 0px;
 }
 
 /*
