@@ -289,8 +289,12 @@ hr {
     border-color: gray;
 }
 
-.markdown-body th {
-    color: rgb(240, 243, 246);
+.markdown-body tale th tr td {
+    border: 1.333px color: rgb(240, 243, 246);
+    padding-bottom: 6px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 6px;
 }
 
 .markdown-body table tr:nth-child(2n) {
