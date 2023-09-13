@@ -61,6 +61,10 @@ h1 Heading
 h2 Heading
 ----------
 
+## h2 Heading ######
+### h3 Heading ###
+#### h3 Heading ####
+
 ## Paragraphs
 
 Paragraph text
