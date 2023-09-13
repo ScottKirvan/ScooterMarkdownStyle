@@ -35,6 +35,7 @@ body {
     padding-left: 32px;
     padding-right: 32px;
     padding-top: 16px;
+    text-align: left;
 }
 
 .footer {
@@ -268,7 +269,6 @@ hr {
     background-color: rgb(122, 130, 142);
     border: 0;
     overflow: hidden;
-    background: transparent;
     box-sizing: content-box;
     color: rgb(240, 243, 246);
 
