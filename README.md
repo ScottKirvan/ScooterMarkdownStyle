@@ -81,9 +81,6 @@ seperate lines
 Line break forced  
 with double spaces
 
- Intented  
-paragraph
-
 ## Horizontal Rules
 
 ___
