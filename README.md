@@ -118,6 +118,8 @@ _This is italic text_
 
 ~~Strikethrough~~
 
+**This is in bold, _italics_, ~~and strikethrough~~**
+
 
 ## Blockquotes
 
