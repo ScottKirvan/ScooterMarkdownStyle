@@ -203,7 +203,9 @@ img {
 blockquote {
     padding: 0 1em;
     color: rgb(240, 243, 246);
-    border-left: 0.25em solid var(--borderColor-default, var(--color-border-default));
+    border-left-color: rgb(122, 130, 142);
+    border-left-style: solid;
+    border-left-width: 4px;
     margin-top: 0;
     margin-bottom: 16px;
     margin: 0;
