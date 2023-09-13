@@ -76,10 +76,13 @@ h2 Heading
 
 Paragraph text
 on three
-seperate lines
+seperate lines.
 
 Line break forced  
-with double spaces
+with double spaces.
+
+Using a slash\
+for force a line break.
 
 ## Horizontal Rules
 
