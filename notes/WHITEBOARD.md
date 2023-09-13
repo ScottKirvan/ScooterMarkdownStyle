@@ -9,7 +9,7 @@ WHITEBOARD
 I'm finding some elements that don't deploy/publish properly.  I'll have to find out where to
 report these.
 
-## Alternate Headers
+# Alternate Headers
 Underlined H2 Headers don't format properly 
 
 Raw:
@@ -30,9 +30,8 @@ For Preview Testing:
 H2 Header
 ---------
 
----
 
-## Github style Note/Warning callouts
+# Github style Note/Warning callouts
 
 ```
 > **Note** 
@@ -53,7 +52,6 @@ H2 Header
 These are parsed as plain paragraph text.
 They need a &lt;span&gt; or something so the css can style it.
 
----
 
 # Tables
 Table formatting breaks when preceded by a paragraph without a break.
@@ -87,7 +85,6 @@ Alignment (possible bug):
 | Codecademy Tee    |  False   |   9.99 |
 | Codecademy Hoodie |   n/a    | 142.99 |
 
----
 
 
 

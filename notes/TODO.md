@@ -6,16 +6,16 @@ kanban-plugin: basic
 
 ## TODO
 
-- [ ] Tables #css
-- [ ] Escape characters #readme
 
 
 ## In Progress
 
+- [ ] [Escape characters](Escape%20characters.md) #readme
 
 
 ## Done ✓
 
+- [ ] Tables #css
 
 
 ## Not Gonna Do ✓
