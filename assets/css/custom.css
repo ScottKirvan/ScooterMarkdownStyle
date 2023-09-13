@@ -296,6 +296,7 @@ hr {
 .markdown-body table {
     border: 1.333px solid rgb(122, 130, 142);
     color: rgb(240, 243, 246);
+    border-collapse: collapse;
 }
 
 .markdown-body th {
