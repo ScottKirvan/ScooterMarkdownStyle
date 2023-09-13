@@ -258,6 +258,8 @@ pre code {
     font-size: 100%;
     border-radius: 6px;
     font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+    box-sizing: border-box;
+}
 }
 
 /*
