@@ -46,17 +46,7 @@
 This README file will serve as a test page for github pages/jekyll styling.  If you already have a GitHub.io page set up, any additional repos you have can be served as a subfolder to that website.  Those repos, by default, do not inherit the style/theme rules set out in the GitHub.io site, therefore you have to set up your own css or theme for each repo.  This readme will have  markdown examples for as much syntax as I can find (and specifically that github supports). The markdown in this README is a superset of GitHub Markdown, so some features will not be parsed on GitHub.
 
 
----
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
----
+# Heading Styles
 
 # h1 Heading 
 ## h2 Heading
