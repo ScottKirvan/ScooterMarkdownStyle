@@ -293,7 +293,12 @@ hr {
 }
 */
 
-.markdown-body table th tr td {
+.markdown-body table {
+    border: 1.333px solid rgb(122, 130, 142);
+    color: rgb(240, 243, 246);
+}
+
+.markdown-body th tr td {
     border: 1.333px solid rgb(122, 130, 142);
     color: rgb(240, 243, 246);
     padding-bottom: 6px;
