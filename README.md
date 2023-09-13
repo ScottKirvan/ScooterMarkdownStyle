@@ -60,7 +60,7 @@ This README file will serve as a test page for github pages/jekyll styling.  If 
 h1 Heading
 ==============
 h2 Heading
----
+----------
 
 ## Paragraphs
 
